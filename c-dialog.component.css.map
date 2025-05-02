@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/c-dialog/c-dialog.component.css"],
+  "sourcesContent": [".header {\r\n    height: auto;\r\n    display: flex; \r\n    flex-wrap: wrap; \r\n    overflow-y: auto;\r\n  }\r\n.title{\r\n    display: flex; \r\n    flex-wrap: wrap;\r\n    flex-direction: column;\r\n    /* align-items: center;  */\r\n}"],
+  "mappings": ";AAAA,CAAC;AACG,UAAQ;AACR,WAAS;AACT,aAAW;AACX,cAAY;AACd;AACF,CAAC;AACG,WAAS;AACT,aAAW;AACX,kBAAgB;AAEpB;",
+  "names": []
+}
